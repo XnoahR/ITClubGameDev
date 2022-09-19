@@ -41,3 +41,4 @@ public class NamaScript : MonoBehaviour
 //    > jangkauan Variabel terdiri atas public dan private
 //        > Dimana public berarti variabel tersebut bisa dipanggil dari dalam script itu sendiri
 //          atau dari script lain
+//          
