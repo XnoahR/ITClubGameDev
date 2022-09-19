@@ -44,5 +44,11 @@ public class NamaScript : MonoBehaviour
 //          atau dari script lain
 //        > public dan [SerializedField] akan membuat variabel dapat diedit di panel inspector
 //          (biasanya sebelah kanan) pada unity
-//        >
-//          
+//        > private variabel berarti variabel yang hanya bisa dipanggil di dalam script itu sendiri,
+//          caranya dengan menulis 'private' sebelum tipe variabel atau tidak menulis apapun sebelum
+//          tipe variabel
+//        > Nama variabel bisa apa saja, disarankan menggunakan huruf kecil diawal kata dan awalan 
+//          huruf besar untuk kata selanjutnya atau menggunakan _ untuk mengganti spasi
+//          Contoh : tinggiBadan, berat_Badan
+//        > Dilarang menggunkan angka untuk awalan nama variabel
+//          Contoh : 1angka, 2buah, 5
