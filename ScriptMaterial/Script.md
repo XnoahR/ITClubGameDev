@@ -31,6 +31,7 @@ public class NamaScript : MonoBehaviour
 /********************************************************************/
 //Cara mendeklarasikan variabel adalah sebagai berikut
 //    public int angka1;     <------ public variabel
+//    [SerializedField]      <------ Untuk 
 //    private int angka2;    <------ private variabel
 //           int angka3;     <------ private variabel
 //    ^       ^     ^
@@ -41,4 +42,7 @@ public class NamaScript : MonoBehaviour
 //    > jangkauan Variabel terdiri atas public dan private
 //        > Dimana public berarti variabel tersebut bisa dipanggil dari dalam script itu sendiri
 //          atau dari script lain
+//        > public dan [SerializedField] akan membuat variabel dapat diedit di panel inspector
+//          (biasanya sebelah kanan) pada unity
+//        >
 //          
