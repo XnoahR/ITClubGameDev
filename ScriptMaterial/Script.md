@@ -55,6 +55,6 @@ Cara mendeklarasikan variabel adalah sebagai berikut
         > Nama variabel bisa apa saja, disarankan menggunakan huruf kecil diawal kata dan awalan 
           huruf besar untuk kata selanjutnya atau menggunakan _ untuk mengganti spasi
           Contoh : tinggiBadan, berat_Badan
-        > Dilarang menggunkan angka untuk awalan nama variabel
-          Contoh : 1angka, 2buah, 5
+        > Dilarang menggunkan angka untuk awalan atau hanya angka untuk nama variabel
+          Contoh : 1angka, 2buah, 523
 
