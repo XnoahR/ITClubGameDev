@@ -57,4 +57,12 @@ Cara mendeklarasikan variabel adalah sebagai berikut
           Contoh : tinggiBadan, berat_Badan
         > Dilarang menggunkan angka untuk awalan atau hanya angka untuk nama variabel
           Contoh : 1angka, 2buah, 523
+```
 
+```
+Unity memiliki banyak variabel, ada beberapa vaiabel yang sering digunakan, yaitu:
+  > Transform
+  > GameObject
+  > Vector2
+  > Vector3
+  
