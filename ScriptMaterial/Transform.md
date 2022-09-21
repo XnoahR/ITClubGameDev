@@ -1,1 +1,4 @@
 # Transform
+```
+Transform variabel yang menyimpan informasi mengenai posisi (position), rotasi (rotation), dan skala (scale) suatu GameObject
+```
