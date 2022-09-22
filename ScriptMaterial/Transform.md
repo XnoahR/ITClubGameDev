@@ -14,4 +14,5 @@ dihilangkan dari **GameObject**, jadi setiap **GameObject** pasti memiliki **Tra
 |Scale      |Skala **Transform** pada sumbu x, y, z (nilai awalnya adalah 1)  |
 
 ![Transform Tool](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/Transform-Tools.png)
+
 ![Transform Gizmos](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/TransformGizmo35.png)
