@@ -12,3 +12,6 @@ dihilangkan dari **GameObject**, jadi setiap **GameObject** pasti memiliki **Tra
 |Position   |Posisi **Transform** pada koordinat x, y, z                      |
 |Rotation   |Rotasi **Transform** pada sumbu x, y, z                          |     
 |Scale      |Skala **Transform** pada sumbu x, y, z (nilai awalnya adalah 1)  |
+
+![Transform Tool](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/Transform-Tools.png)
+Transform Gizmos
