@@ -5,6 +5,9 @@
 
 
 ### Hierarchy
-![Hierarchy](https://docs.unity3d.com/uploads/Main/SceneVisIconsHierarchy_01.png) 
+![Hierarchy](https://docs.unity3d.com/uploads/Main/SceneVisIconsHierarchy_01.png)
 
 **Hierarchy** secara default berada di sebelah kiri layar. **Hierarchy** berisi daftar semua [GameObject](https://github.com/XnoahR/ITClubGameDev/tree/main/ScriptMaterial/Game%20Object.md) yang ada di game scene.
+
+### Inspector
+![Inspector](https://docs.unity3d.com/es/2019.3/uploads/Main/GenericInspector.png)
