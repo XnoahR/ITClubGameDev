@@ -13,6 +13,6 @@ dihilangkan dari **GameObject**, jadi setiap **GameObject** pasti memiliki **Tra
 |Rotation   |Rotasi **Transform** pada sumbu x, y, z                          |     
 |Scale      |Skala **Transform** pada sumbu x, y, z (nilai awalnya adalah 1)  |
 
-![Transform Tool](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/Transform-Tools.png) Transform tool ynag berada di pojok kanan atas Unity
+![Transform Tool](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/Transform-Tools.png) Transform tool yang berada di pojok kanan atas Unity
 
 ![Transform Gizmos](https://github.com/XnoahR/ITClubGameDev/blob/main/ScriptMaterial/Pictures/TransformGizmo35.png)
